@@ -1,4 +1,4 @@
-# Island-Adventure
+# Island Adventure!
 
 <img src="https://i.imgur.com/1GOBmPr.png"/>
 
